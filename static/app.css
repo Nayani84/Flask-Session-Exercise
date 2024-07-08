@@ -1,0 +1,45 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.2rem;
+}
+
+body {
+
+    background-color: #a7d4f7;
+}
+
+p {
+    margin: 20px auto;
+    font-weight: 500;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    color: rgb(213, 9, 231);
+    font-size: 1.8rem;
+    font-weight: 800;
+}
+
+h2 {
+    display: flex;
+    justify-content: flex-start;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+button {
+    margin-top: 20px;
+    margin-left: 210px;
+    padding: 10px;
+    background-color: rgb(238, 115, 70);
+    border-radius: 10px;
+    border: none;
+}
+
+button:hover {
+    cursor: pointer;
+    border-style: none;
+    background-color: orangered;
+}
+
